@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializerTesting", "SerializerTesting\SerializerTesting.csproj", "{05F7563A-7C52-43A7-A827-8A0033F2C14D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializerTesting.Data", "SerializerTesting.Data\SerializerTesting.Data.csproj", "{81DAAAD1-BA01-4EED-BD3E-40EF9D566F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializerTesting.Model", "SerializerTesting.Model\SerializerTesting.Model.csproj", "{DDADFD5B-768F-4FEC-9FD0-2BAD595C6DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializerTesting.Infrastructure", "SerializerTesting.Infrastructure\SerializerTesting.Infrastructure.csproj", "{51A7B8F8-7BBB-4273-96E2-1EA62EFF2143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializerTesting.Wpf", "SerializerTesting.Wpf\SerializerTesting.Wpf.csproj", "{685778DF-C2B3-46C9-B7D9-A86BF5BE2EB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F7563A-7C52-43A7-A827-8A0033F2C14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F7563A-7C52-43A7-A827-8A0033F2C14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F7563A-7C52-43A7-A827-8A0033F2C14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F7563A-7C52-43A7-A827-8A0033F2C14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81DAAAD1-BA01-4EED-BD3E-40EF9D566F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DAAAD1-BA01-4EED-BD3E-40EF9D566F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DAAAD1-BA01-4EED-BD3E-40EF9D566F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DAAAD1-BA01-4EED-BD3E-40EF9D566F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDADFD5B-768F-4FEC-9FD0-2BAD595C6DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDADFD5B-768F-4FEC-9FD0-2BAD595C6DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDADFD5B-768F-4FEC-9FD0-2BAD595C6DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDADFD5B-768F-4FEC-9FD0-2BAD595C6DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A7B8F8-7BBB-4273-96E2-1EA62EFF2143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A7B8F8-7BBB-4273-96E2-1EA62EFF2143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A7B8F8-7BBB-4273-96E2-1EA62EFF2143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A7B8F8-7BBB-4273-96E2-1EA62EFF2143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685778DF-C2B3-46C9-B7D9-A86BF5BE2EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685778DF-C2B3-46C9-B7D9-A86BF5BE2EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685778DF-C2B3-46C9-B7D9-A86BF5BE2EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685778DF-C2B3-46C9-B7D9-A86BF5BE2EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
